@@ -3,6 +3,10 @@ HTML and CSS Portfolio
 
 This project is part of a "making a website from scratch". The goal is to create a website from scratch with functionality. Therefore my style.css and index.html had to be created. We were given a 'User Story' and an 'Acceptance Criteria'. I had to meet the necessary requirements that are listed in the 'Acceptance Criteria' for my portfolio. Below is my guidelines for the 'Acceptance Criteria'
 
+CHALLENGES
+
+This project was the most challenging. Given that I've had zero experience with coding, this was extremely difficult. I was lost in approching this project. I had the resources, but I had to try and find out how and where to start. I was able to complete this project, but needed assistance from my previous lessons, activites, looking up tutorials online, and reading/re-reading tutorials on websites like mozilla and W3schools. I am still not confident in building a website from scratch, but this project helped me understand it a bit more. I am more confident in HTML than CSS, just because the styling in CSS can get overwhelming and confusing at times.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 WHEN I load their portfolio
