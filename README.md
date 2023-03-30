@@ -33,8 +33,6 @@ WHEN I resize the page or view the site on various screens and devices
 
 In my repository contains an 'images' folder which is my images I used for the website. An 'Assets' folder which contains both my 'style.css'. Lastly, I have my 'README.md', 'index.html', and 'LICENSE' file.
 
-Down below is quick link to view my HTML code.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Quick link to my HTML code -- https://github.com/kgkagunat/Kamauliola-Agunat-Portfolio/blob/main/index.html
