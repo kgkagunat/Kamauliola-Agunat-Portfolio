@@ -44,3 +44,14 @@ Quick link to my HTML code -- https://github.com/kgkagunat/Kamauliola-Agunat-Por
 Quick link to my CSS code -- https://github.com/kgkagunat/Kamauliola-Agunat-Portfolio/blob/main/assets/style.css
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Screenshots of my page
+
+![Main Section](https://user-images.githubusercontent.com/127634764/229019099-783490f3-e2a0-4fac-9cd8-a19c17f0cfc6.png)
+
+![About Section](https://user-images.githubusercontent.com/127634764/229019105-627475d9-6651-486f-9134-c51918a042c2.png)
+
+![Projects Section](https://user-images.githubusercontent.com/127634764/229019111-eeee742c-e479-40cc-8ab3-6b056ebb5f71.png)
+
+![Footer Section](https://user-images.githubusercontent.com/127634764/229019119-d1c32ed9-4df6-4f6e-b527-15c649fc52a2.png)
+
