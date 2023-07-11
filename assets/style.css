@@ -157,7 +157,7 @@ h2 {
     margin: 10px;
 }
 
-.project-card-mcd, .project-card-ht, .project-card-group-project {
+.project-card-mcd, .project-card-ht, .project-card-group-project, .project-card-group-project-2  {
     width: 300px;
     height: 500px;
     box-shadow: 5px 5px 20px black;
@@ -218,6 +218,17 @@ h3 {
 .project-image-group-project:hover {
     filter: drop-shadow(16px 16px 20px blue) opacity(50%);
 }
+
+.project-image-group-project-2 {
+    width: 200px;
+    margin-top: 20px;
+}
+
+.project-image-group-project-2:hover {
+    filter: drop-shadow(16px 16px 20px blue) opacity(50%);
+}
+
+
 
 
 
